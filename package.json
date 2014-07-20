@@ -1,0 +1,6 @@
+{
+  "name": "coffeebreak-grunt-task",
+  "description": "Run grunt tasks with coffeebreak",
+  "version": "0.0.1",
+  "author": "Andi Heinkelein"
+}
